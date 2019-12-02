@@ -1,5 +1,8 @@
 _repo: Storia-dei-musulmani-di-Sicilia-vol-III-parte-I_60788
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60788-h/images/cover.jpg
 creator:
   author:
     agent_name: Amari, Michele
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33895
     wikipedia: http://it.wikipedia.org/wiki/Michele_Amari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60788#Storia-dei-musulmani-di-Sicilia-vol-III-parte-I
 gutenberg_issued: '2019-11-26'
 gutenberg_type: Text
 identifiers:
